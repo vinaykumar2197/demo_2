@@ -77,13 +77,8 @@
             "up_data_5": "",
             "up_data_6": ""
           }
-        ]
-      }
-    },
-    "klub_works": {
-        "status": "success",
-      "message": "fetched data",
-      "data": {
+        ],
+          "klub_works": {
       "kw_title": "",
       "kw_desc": "",
       "kw_data": [
@@ -104,6 +99,7 @@
         }
       ]
   }
+      }
     }
 }
 
