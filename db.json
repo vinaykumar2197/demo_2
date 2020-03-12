@@ -1,0 +1,105 @@
+{
+    "klub_read_story": {
+      "status": "success",
+      "message": "fetched data",
+      "data": {
+        "unlimited_plans": [
+          {
+            "up_title": "",
+            "up_striked_price": "",
+            "up_actual_price": "",
+            "up_data_1": "",
+            "up_data_2": "",
+            "up_data_3": "",
+            "up_data_4": "",
+            "up_data_5": "",
+            "up_data_6": ""
+          },
+          {
+            "up_title": "",
+            "up_striked_price": "",
+            "up_actual_price": "",
+            "up_data_1": "",
+            "up_data_2": "",
+            "up_data_3": "",
+            "up_data_4": "",
+            "up_data_5": "",
+            "up_data_6": ""
+          }
+        ],
+        "klub_members_feedback": {
+          "feedback_title": "",
+          "feedback_desc": "",
+          "feedabck_data": [
+            {
+              "fb_review": "",
+              "fb_parent_name": "",
+              "fb_child_relation": ""
+            },
+            {
+              "fb_review": "",
+              "fb_parent_name": "",
+              "fb_child_relation": ""
+            },
+            {
+              "fb_review": "",
+              "fb_parent_name": "",
+              "fb_child_relation": ""
+            }
+          ]
+        }
+      }
+    },
+    "klub_membership_subscribe": {
+      "status": "success",
+      "message": "fetched data",
+      "data": {
+        "unlimited_plans": [
+          {
+            "up_title": "",
+            "up_striked_price": "",
+            "up_actual_price": "",
+            "up_data_1": "",
+            "up_data_2": "",
+            "up_data_3": "",
+            "up_data_4": "",
+            "up_data_5": "",
+            "up_data_6": ""
+          },
+          {
+            "up_title": "",
+            "up_striked_price": "",
+            "up_actual_price": "",
+            "up_data_1": "",
+            "up_data_2": "",
+            "up_data_3": "",
+            "up_data_4": "",
+            "up_data_5": "",
+            "up_data_6": ""
+          }
+        ]
+      }
+    },
+    "klub_works": {
+      "kw_title": "",
+      "kw_desc": "",
+      "kw_data": [
+        {
+          "kw_id": "",
+          "kw_title": "",
+          "kw_desc": ""
+        },
+        {
+          "kw_id": "",
+          "kw_title": "",
+          "kw_desc": ""
+        },
+        {
+          "kw_id": "",
+          "kw_title": "",
+          "kw_desc": ""
+        }
+      ]
+  }
+}
+
